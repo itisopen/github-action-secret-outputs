@@ -1,6 +1,6 @@
 name: 'Secret output'
 description: 'Allow outputs that contains secrets to be passed between jobs by encrypting them.'
-author: hello@cloudposse.com
+author: hello@itisopen.net
 branding:
   icon: 'shield'
   color: 'white'
